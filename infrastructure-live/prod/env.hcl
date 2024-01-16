@@ -1,3 +1,5 @@
+# Locals Block
+
 locals {
-    env = "prod"
+    env = "prod"  # Local variable for the environment
 }

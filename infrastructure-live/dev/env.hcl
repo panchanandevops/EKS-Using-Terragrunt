@@ -1,3 +1,5 @@
+# Locals Block
+
 locals {
-    env = "dev"
+    env = "dev"  # Local variable for the environment
 }
