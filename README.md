@@ -1,2 +1,4 @@
-# EKS-Using-Terragrunt
-Repository for managing an Amazon EKS (Elastic Kubernetes Service) cluster using Terragrunt, providing infrastructure as code for Kubernetes deployment on AWS.
+# Building EKS Cluster Using Terragrunt! (Step-by-Step)
+
+
+
