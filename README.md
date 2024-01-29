@@ -8,3 +8,6 @@
 
 3. **Demo Configuration:** The 'demo' directory includes configurations for a sample Nginx deployment in the EKS cluster.
 
+## Understand  a High level Overview through a Diagram 
+
+![](./Diagram/EKS.png)
